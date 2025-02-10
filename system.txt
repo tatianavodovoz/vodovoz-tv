@@ -1,0 +1,1 @@
+Linux ubu 5.15.0-131-generic #141~20.04.1-Ubuntu SMP Thu Jan 16 18:38:51 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux
